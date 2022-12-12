@@ -598,6 +598,7 @@ main {
   left: 0;
   width: 100%;
   height: 100%;
+  padding-top: 50px;
   background-color: #00000865;
   display: flex;
   flex-direction: column;
@@ -622,9 +623,9 @@ main {
   }
 
   video {
-    width: 80%;
+    width: 70%;
     align-self: center;
-    margin-top: 15px;
+    margin: 15px 0;
   }
 }
 // End The Movies Page Style
